@@ -64,5 +64,6 @@ O segundo parâmetro deve ser maior que o primeiro</code></pre>
 Para mais informações sobre o projeto ou para entrar em contato comigo, envie um email para <a href="mailto:seu-email@exemplo.com">needslucas944@gmail.com</a>.
 
 ---
-
-<p><strong>DesafioControleFluxo</strong> &copy; 2024</p>
+<div style="text-align: center;">
+  <p><strong >DesafioControleFluxo</strong> &copy; 2024</p>
+</div>
